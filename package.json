@@ -1,0 +1,41 @@
+{
+  "name": "infinite",
+  "displayName": "%displayName%",
+  "description": "%description%",
+  "categories": [
+    "Themes"
+  ],
+  "version": "1.0.0",
+  "publisher": "vscode",
+  "license": "MIT",
+  "engines": {
+    "vscode": "*"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "id": "Infinite Space Deep",
+        "label": "%deepColorThemeLabel%",
+        "uiTheme": "vs-dark",
+        "path": "./themes/infinite-space-deep.json"
+      },
+      {
+        "id": "Infinite Space Grey",
+        "label": "%darkColorThemeLabel%",
+        "uiTheme": "vs-dark",
+        "path": "./themes/infinite-space-dark.json"
+      },
+      {
+        "id": "Infinite Space Dark",
+        "label": "%greyColorThemeLabel%",
+        "uiTheme": "vs-dark",
+        "path": "./themes/infinite-space-grey.json"
+      }
+    ]
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kaplanark/infinite-space.git"
+  }
+}
