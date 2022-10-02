@@ -3,6 +3,6 @@
   "description": "The Visual Studio grey and dark themes",
   "deepColorThemeLabel": "Infinite Space Deep",
   "darkColorThemeLabel": "Infinite Space Dark",
-  "greyColorThemeLabel": "Infinite Space Grey"
-  
+  "greyColorThemeLabel": "Infinite Space Grey",
+  "mintColorThemeLabel": "Infinite Space Mint"
 }

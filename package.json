@@ -30,6 +30,12 @@
         "label": "%greyColorThemeLabel%",
         "uiTheme": "vs-dark",
         "path": "./themes/infinite-space-grey.json"
+      },
+      {
+        "id": "Infinite Space Mint",
+        "label": "%mintColorThemeLabel%",
+        "uiTheme": "vs-dark",
+        "path": "./themes/infinite-space-mint.json"
       }
     ]
 
